@@ -1,8 +1,4 @@
-=== Influx FB Like Box Like Box ===
-Contributors: influx entrepreneur
-Tags: buddypress, Facebook, facebook like, facebook like box, facebook like button, fb like, wordpress facebook like box, facebook like for wordpress
-Requires at least: 2.8.6
-Tested up to: 4.2.2Stable tag: 2.1License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== Influx FB Like Box Like Box ===Contributors: HectorGuerreroTags: buddypress, Facebook, facebook like, facebook like box, facebook like button, fb like, wordpress facebook like box, facebook like for wordpressRequires at least: 2.8.6Tested up to: 4.2.2Stable tag: 2.1License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Influx FB Like Box like box display facebook like box. it enable Facebook Page owners to attract and gain Likes from their own website. 
 == Description ==
