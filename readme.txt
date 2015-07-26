@@ -1,7 +1,7 @@
-=== Influx FB Like Box Like Box ===Contributors: HectorGuerreroTags: buddypress, Facebook, facebook like, facebook like box, facebook like button, fb like, wordpress facebook like box, facebook like for wordpressRequires at least: 2.8.6Tested up to: 4.2.2Stable tag: 2.1License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
+=== Influx FB Like Box Like Box ===Contributors: HectorGuerreroTags: buddypress, Facebook, facebook like, facebook like box, facebook like button, fb like, wordpress facebook like box, facebook like for wordpressRequires at least: 2.8.6Tested up to: 4.2.3Stable tag: 2.1License: GPLv2 or laterLicense URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Influx FB Like Box like box display facebook like box. it enable Facebook Page owners to attract and gain Likes from their own website. 
-== Description ==
+== Description ==[https://www.youtube.com/watch?v=xf3tHig7DAM]
 Influx FB Like Box like box display facebook like box. it enable Facebook Page owners to attract and gain Likes from their own website. The Like Box enables users to see page likes, recent posts from the page and Like button and which of friends like this page too.
 
 = Options =
@@ -10,7 +10,7 @@ Influx FB Like Box like box display facebook like box. it enable Facebook Page o
 = Shortcode =
 Now Shortcode is available in Influx FB Like Box Like Box and User can easily create shortcode by using widget.
 [easy-fb-like-box url="enter your facebook page url" width="set your width" height="set your height" theme="choose one theme light or dark" faces="choose true or false" header="choose ture or false" posts="choose true or false" border="choose true or false"]
-
+You might also want to Download [Influx Webinar WP](http://influxentrepreneur.info/influx-webinar-wp-plugin/)[https://www.youtube.com/watch?v=dbbq39GNe28}
 == Installation ==
 
 = Option 1 =
